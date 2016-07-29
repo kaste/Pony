@@ -1,0 +1,22 @@
+{
+  "name": "Pony",
+  "version": "0.1.0",
+  "description": "Extensions for Polymer",
+  "main": "Pony.decorators.html",
+  "keywords": [
+    "web-components",
+    "polymer"
+  ],
+  "authors": [
+    "herr kaste <herr.kaste@gmail.com>"
+  ],
+  "license": "BSD",
+  "homepage": "",
+  "ignore": [],
+  "dependencies": {
+    "polymer": "^1.4.0"
+  },
+  "devDependencies": {
+    "web-component-tester": "^4.2.2"
+  }
+}

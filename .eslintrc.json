@@ -1,0 +1,22 @@
+{
+  "parser": "babel-eslint",
+  "extends": "eslint:recommended",
+  "rules": {
+    "no-console": 0,
+    "semi": [2, "never"],
+    "no-unreachable": 2,
+    "no-unexpected-multiline": 2
+  },
+  "env": {
+    "browser": true
+  },
+  "plugins": [
+    "html"
+  ],
+  "globals": {
+    "CustomElements": false,
+    "HTMLImports": false,
+    "Polymer": false,
+    "WeakMap": false
+  }
+}

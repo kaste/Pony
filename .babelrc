@@ -1,0 +1,7 @@
+{
+  // "presets": [ "es2015-rollup" ],
+  "plugins": [
+    // ["transform-es2015-for-of", { "loose": true }],
+    "babel-plugin-transform-decorators-legacy"
+  ]
+}
