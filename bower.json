@@ -11,7 +11,11 @@
     "herr kaste <herr.kaste@gmail.com>"
   ],
   "license": "BSD",
-  "homepage": "",
+  "homepage": "https://github.com/kaste/Pony",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kaste/Pony.git"
+  },
   "ignore": [],
   "dependencies": {
     "polymer": "^1.4.0"
