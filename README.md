@@ -50,9 +50,14 @@ Polymer({
 })
 ```
 
-For now, please look at the inline docs in the source.
+For now, please look at the inline docs in the source. Some further examples [`<audio-context>`](https://github.com/kaste/audio-lego/blob/master/src/audio-context.html) from [`audio-lego`](https://github.com/kaste/audio-lego), and maybe the [`<page-visibility>`](https://github.com/kaste/page-visibility/blob/master/src/page-visibility.html)-element.
 
 
+Install
+-------
+
+```
+bower install -S kaste/Pony
+```
 
 
-***Notice***: This code is extracted from an app. This extractions is a work-in-progress and maybe everything and all got broken during that.
